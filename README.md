@@ -7,6 +7,8 @@
 3. push the modified notes to the top 
 4. delete note button
 
+##### Technologies : HTML , CSS , REACT (using Hooks), USING (local storage).
+
 #### you can see live here : https://notes-app-git-main-emadhussien.vercel.app/
 
 
